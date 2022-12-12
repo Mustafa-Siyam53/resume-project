@@ -1,5 +1,4 @@
 # Flutter - Shopping-App
-###### Design courtesy : https://dribbble.com/shots/3071109-Converse-Product-page-with-Add-to-cart-concept
 
 
 ### Features
@@ -28,9 +27,4 @@
 
 You can download apk file from [here](./app-release.apk)
 
-Video Demo : https://youtu.be/15-S9ob0OgQ
 
-created by : hello@hupp.in
-
-
-https://blog.hupp.tech/flutter-e-commerce-app/
